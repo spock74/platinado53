@@ -1,17 +1,16 @@
-# A [_platinado_](https://carros.mercadolivre.com.br/pecas/platinado-fusca-1300) for __Rerbie__ 
+# Get A [_platinado_](https://carros.mercadolivre.com.br/pecas/platinado-fusca-1300) For __Rerbie__ 
 
-> A (looselly) collected list of resource onMachine learning especially MOOC Courses
+> (Work in progress) A (looselly) collectiopn of links on __Machine Learning__, especially MOOC courses from [coursera](https://www.coursera.org/) and [edX](https://courses.edx.org/)
 
-### One (of several) NNC-stayle Internal joke
+-----
+
+### Caution: This text contain (a plent of) NNC-style hidden internal jokes. Such as:
 
 42 + 11: http://desciclopedia.org/wiki/Herbie
 
 -----
 
 ### __The List__
-
-> (Work in progress)
-
 
 ### Artificial Intelligence Newsletter - O'Reilly Media<sup>1</sup>
 
