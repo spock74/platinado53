@@ -54,6 +54,12 @@ https://www.edx.org/course/deep-learning-explained-microsoft-dat236x-0
 
 -----
 
+### Using Python for Research
+
+(Coursera)
+
+https://courses.edx.org/courses/course-v1:HarvardX+PH526x+1T2018/course/
+
 ### Introduction to Python for Data Science
 
 https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-8
