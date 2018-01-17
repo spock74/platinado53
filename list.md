@@ -2,29 +2,38 @@
 
 > A (looselly) collected list of resource onMachine learning especially MOOC Courses
 
-## (One of several NNC-stayle) Internal joke
+### One (of several) NNC-stayle Internal joke
 
-http://desciclopedia.org/wiki/Herbie
+42 + 11: http://desciclopedia.org/wiki/Herbie
 
 -----
 
-## The List
+### __The List__
 
 > (Work in progress)
 
------
 
-### Artificial Intelligence Newsletter - O'Reilly Media
-
-http://post.oreilly.com/form/oreilly/viewhtml/9z1zojberoq926g2gfo4rs8043rcsggvh85gqjjgs4g?imm_mid=0f9a96&cmp=em-data-na-na-newsltr_ai_20171211
+### Artificial Intelligence Newsletter - O'Reilly Media<sup>1</sup>
 
 Progress in AI isn't as impressive as you might think
+
+[O'Reilly Newsletter](http://post.oreilly.com/form/oreilly/viewhtml/9z1zojberoq926g2gfo4rs8043rcsggvh85gqjjgs4g?imm_mid=0f9a96&cmp=em-data-na-na-newsltr_ai_20171211)
+
+(1) incomplete, maybe inconsistent, __proof__:
+
+[_Ex Index_ 1](https://www.youtube.com/watch?v=NoAzpa1x7jU)
+
+[_Ex Index_ 2](https://www.youtube.com/watch?v=HtBuBJxDlU8)
+
+[_Ex Index_ 3](https://www.youtube.com/watch?v=SjZudKgH_OY)
+
+[TOBC]
 
 -----
 
 ### An Introduction to Statistical Learning, with Applications in R
 
-### https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
+https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
 
 This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).
 
