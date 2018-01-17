@@ -1,4 +1,4 @@
-# One [_platinado_](https://carros.mercadolivre.com.br/pecas/platinado-fusca-1300) for __Rerbie__ 
+# A [_platinado_](https://carros.mercadolivre.com.br/pecas/platinado-fusca-1300) for __Rerbie__ 
 
 > A (looselly) collected list of resource onMachine learning especially MOOC Courses
 
