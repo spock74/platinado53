@@ -32,6 +32,8 @@ Progress in AI isn't as impressive as you might think
 
 ### An Introduction to Statistical Learning, with Applications in R
 
+> The Classics
+
 https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
 
 This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).
@@ -54,11 +56,26 @@ https://www.edx.org/course/deep-learning-explained-microsoft-dat236x-0
 
 -----
 
+### TensorFlow
+
+https://www.tensorflow.org/
+
+-----
+
 ### Using Python for Research
 
 (Coursera)
 
 https://courses.edx.org/courses/course-v1:HarvardX+PH526x+1T2018/course/
+
+
+-----
+
+### Have fun with [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A) and deep learning
+
+(Youtube channel)
+
+-----
 
 ### Introduction to Python for Data Science
 
