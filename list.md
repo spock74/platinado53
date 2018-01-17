@@ -2,7 +2,7 @@
 
 > A (looselly) collected list of resource onMachine learning especially MOOC Courses
 
-## Internal joke
+## (One of several NNC-stayle) Internal joke
 
 http://desciclopedia.org/wiki/Herbie
 
@@ -12,13 +12,39 @@ http://desciclopedia.org/wiki/Herbie
 
 > (Work in progress)
 
+-----
+
+### Artificial Intelligence Newsletter - O'Reilly Media
+
+http://post.oreilly.com/form/oreilly/viewhtml/9z1zojberoq926g2gfo4rs8043rcsggvh85gqjjgs4g?imm_mid=0f9a96&cmp=em-data-na-na-newsltr_ai_20171211
+
+Progress in AI isn't as impressive as you might think
+
+-----
+
+### An Introduction to Statistical Learning, with Applications in R
+
+### https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
+
+This is an introductory-level course in supervised learning, with a focus on regression and classification methods. The syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis; cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines. Some unsupervised learning methods are discussed: principal components and clustering (k-means and hierarchical).
+
+This is not a math-heavy class, so we try and describe the methods without heavy reliance on formulas and complex mathematics. We focus on what we consider to be the important elements of modern data analysis. Computing is done in R. There are lectures devoted to R, giving tutorials from the ground up, and progressing with more detailed sessions that implement the techniques in each chapter.
+
+The lectures cover all the material in [An Introduction to Statistical Learning, with Applications in R] by James, Witten, Hastie and Tibshirani(http://www-bcf.usc.edu/~gareth/ISL/) (Springer, 2013). The pdf for this book is available for free on the book website.
+
+-----
+
 ### Introduction to Artificial Intelligence (AI)
 
 https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x
 
+-----
+
 ### Deep Learning Explained
 
 https://www.edx.org/course/deep-learning-explained-microsoft-dat236x-0
+
+-----
 
 ### Introduction to Python for Data Science
 
@@ -30,73 +56,73 @@ https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6
 
 ### Neural Networks for Machine Learning
 
-Coursera
+(Coursera)
 
 https://www.coursera.org/learn/neural-networks?recoOrder=0&utm_medium=email&utm_source=recommendations&utm_campaign=DAw8sPpsEeeEfkve0dBSRg
 
 ### Machine Learning
 
-Coursera
+(Coursera)
 
 https://www.coursera.org/specializations/machine-learning?recoOrder=2&utm_medium=email&utm_source=recommendations&utm_campaign=DAw8sPpsEeeEfkve0dBSRg
 
 ### Machine Learning: Regression
 
-Coursera
+(Coursera)
 
 https://www.coursera.org/learn/ml-regression?recoOrder=4&utm_medium=email&utm_source=recommendations&utm_campaign=DAw8sPpsEeeEfkve0dBSRg
 
 ### An Introduction to Interactive Programming in Python (Part 2)
 
-Coursera
+(Coursera)
 
 https://www.coursera.org/learn/interactive-python-2?recoOrder=5&utm_medium=email&utm_source=recommendations&utm_campaign=DAw8sPpsEeeEfkve0dBSRg
 
 ### Nearest Neighbor Collaborative Filtering
 
-Coursera
+(Coursera)
 
 https://www.coursera.org/learn/collaborative-filtering?recoOrder=6&utm_medium=email&utm_source=recommendations&utm_campaign=DAw8sPpsEeeEfkve0dBSRg
 
 ### Machine Learning: Clustering & Retrieval
 
-Coursera
+(Coursera)
 
 https://www.coursera.org/learn/ml-clustering-and-retrieval?recoOrder=12&utm_medium=email&utm_source=recommendations&utm_campaign=DAw8sPpsEeeEfkve0dBSRg
 
 ### Using Databases with Python
 
-Coursera
+(Coursera)
 
 https://www.coursera.org/learn/python-databases?recoOrder=13&utm_medium=email&utm_source=recommendations&utm_campaign=DAw8sPpsEeeEfkve0dBSRg
 
 ### Applied Machine Learning in Python
 
-Coursera
+(Coursera)
 
 https://www.coursera.org/learn/python-machine-learning?recoOrder=15&utm_medium=email&utm_source=recommendations&utm_campaign=DAw8sPpsEeeEfkve0dBSRg
 
 ### Bioinformatics
 
-Coursera
+(Coursera)
 
 https://www.coursera.org/specializations/bioinformatics?recoOrder=16&utm_medium=email&utm_source=recommendations&utm_campaign=DAw8sPpsEeeEfkve0dBSRg
 
 ### Algorithms on Strings
 
-Coursera
+(Coursera)
 
 https://www.coursera.org/learn/algorithms-on-strings?recoOrder=19&utm_medium=email&utm_source=recommendations&utm_campaign=DAw8sPpsEeeEfkve0dBSRg
 
 ### Discrete Optimization
 
-Coursera
+(Coursera)
 
 https://www.coursera.org/learn/discrete-optimization?recoOrder=21&utm_medium=email&utm_source=recommendations&utm_campaign=DAw8sPpsEeeEfkve0dBSRg
 
 ### Approximation Algorithms Part I
 
-Coursera
+(Coursera)
 
 https://www.coursera.org/learn/approximation-algorithms-part-1?recoOrder=22&utm_medium=email&utm_source=recommendations&utm_campaign=DAw8sPpsEeeEfkve0dBSRg
 
@@ -154,15 +180,15 @@ https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coac
 
 ### Goodrich, Tamassia, Goldwasser: Data Structures and Algorithms in Python - Student Companion Site
 
+### Python 3.5.4 documentation
+
+https://docs.python.org/3.5
+
 http://bcs.wiley.com/he-bcs/Books?action=chapter&bcsId=8029&itemId=1118290275&chapterId=88981
 
-### 6.1. string — Common string operations — Python 3.5.4 documentation
+### Common string operations — Python 3.5.4 documentation
 
 https://docs.python.org/3.5/library/string.html
-
-### Artificial Intelligence Newsletter - O'Reilly Media
-
-http://post.oreilly.com/form/oreilly/viewhtml/9z1zojberoq926g2gfo4rs8043rcsggvh85gqjjgs4g?imm_mid=0f9a96&cmp=em-data-na-na-newsltr_ai_20171211
 
 ### joeyajames/Python: Python code for YouTube videos.
 
