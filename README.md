@@ -56,6 +56,30 @@ https://www.edx.org/course/deep-learning-explained-microsoft-dat236x-0
 
 -----
 
+### Using Python for Research
+
+https://courses.edx.org/courses/course-v1:HarvardX+PH526x+1T2018/course/
+
+-----
+
+### Anaconda distribution
+
+https://www.anaconda.com/what-is-anaconda/
+
+"the open source Anaconda Distribution is the easiest way to do Python data science and machine learning. It includes hundreds of popular data science packages and the conda package and virtual environment manager for Windows, Linux, and MacOS. Conda makes it quick and easy to install, run, and upgrade complex data science and machine learning environments like scikit-learn, TensorFlow, and SciPy. Anaconda Distribution is the foundation of millions of data science projects as well as Amazon Web Services' Machine Learning AMIs and Anaconda for Microsoft on Azure and Windows." (from the Anaconda Inc Home Page)
+
+[Conda](https://conda.io/docs/user-guide/getting-started.html) a utility to manage Anaconda packages and stuff
+
+-----
+
+### Jupyter project
+
+http://jupyter.org/
+
+The Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more.
+
+-----
+
 ### TensorFlow
 
 https://www.tensorflow.org/
@@ -67,7 +91,6 @@ https://www.tensorflow.org/
 (Coursera)
 
 https://courses.edx.org/courses/course-v1:HarvardX+PH526x+1T2018/course/
-
 
 -----
 
